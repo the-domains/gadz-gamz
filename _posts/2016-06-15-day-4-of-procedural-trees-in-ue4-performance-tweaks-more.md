@@ -35,8 +35,8 @@ isBasedOnUrl: 'https://vine.co/v/ievYLLATJLx'
 title: >-
   day 4 of #procedural trees in #UE4 performance tweaks, more settings, no odd
   twisting, and gravity! #gamedev
-datePublished: '2016-06-15T08:17:17.427Z'
-dateModified: '2016-06-15T08:17:10.587Z'
+datePublished: '2016-06-15T08:19:35.997Z'
+dateModified: '2016-06-15T08:18:47.726Z'
 starred: false
 sourcePath: _posts/2016-06-15-day-4-of-procedural-trees-in-ue4-performance-tweaks-more.md
 inFeed: true
