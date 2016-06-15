@@ -35,8 +35,8 @@ isBasedOnUrl: 'https://vine.co/v/i9Eb9EFpzWP'
 title: >-
   does it make you want to out of your way to grab it? bonus pick-up for
   #crystalFlux #UE4 #gamedev
-datePublished: '2016-06-15T08:14:58.013Z'
-dateModified: '2016-06-15T08:14:38.021Z'
+datePublished: '2016-06-15T08:16:51.030Z'
+dateModified: '2016-06-15T08:14:50.839Z'
 starred: false
 sourcePath: >-
   _posts/2016-06-15-does-it-make-you-want-to-out-of-your-way-to-grab-it-bonus-p.md
