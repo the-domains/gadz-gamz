@@ -4,8 +4,15 @@
         <description><![CDATA[gadz gamz]]></description>
         <link>https://thegrid.ai/gadz-gamz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 08:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 08:18:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gadz-gamz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[day 4 of #procedural trees in #UE4 performance tweaks, more settings, no odd twisting, and gravity! #gamedev]]></title>
+            <description><![CDATA[<article><h1>day 4 of #procedural trees in #UE4 performance tweaks, more settings, no odd twisting, and gravity! #gamedev</h1><p>Watch Ryan Gadz's Vine "day 4 of #procedural trees in #UE4 performance tweaks, more settings, no odd twisting, and gravity! #gamedev" taken on 21 January 2016. It has 0 likes. The entertainment network where videos and personalities get really big, really fast. Download Vine to watch videos, remixes and trends before they blow up.</p></article>]]></description>
+            <link>https://vine.co/v/ievYLLATJLx</link>
+            <guid isPermaLink="false">52db903b-5ba1-4ff9-b7bb-691e230e42d9</guid>
+            <pubDate>Wed, 15 Jun 2016 08:17:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[little buggers won't stay dead #crystalFlux #UE4 #gamedev #magicavoxel]]></title>
             <description><![CDATA[<article><h1>little buggers won't stay dead #crystalFlux #UE4 #gamedev #magicavoxel</h1><p>Watch Ryan Gadz's Vine "little buggers won't stay dead #crystalFlux #UE4 #gamedev #magicavoxel" taken on 3 March 2016. It has 0 likes. The entertainment network where videos and personalities get really big, really fast. Download Vine to watch videos, remixes and trends before they blow up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbe934c7b4eb6bc226d025e554d57c3ab52c7e43.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/gadz-gamz/screenshot-of-crystalflux/index.html</link>
             <guid isPermaLink="false">c0f8ba5c-f71f-45a4-a18b-5a5c1a0acb79</guid>
             <pubDate>Wed, 15 Jun 2016 07:33:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>crystalFlux bonus pickup item with slow motion cinematic camera. Music by @BrendonComposer #indiedev #ue4pic.twitter.com/0HvcX2i16Z</p>]]></description>
-            <link>https://twitter.com/GadzGamz/status/740054259308208128</link>
-            <guid isPermaLink="false">9664a726-02f5-46f2-8d6c-5f19a4621578</guid>
-            <pubDate>Wed, 15 Jun 2016 07:31:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
