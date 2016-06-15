@@ -4,22 +4,27 @@ author:
     url: 'http://twitter.com/gadzgamz'
     avatar:
       src: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/feb1342b83df8978ddbe18a75ff7a7cca50163a4.jpg
+      original: >-
         https://pbs.twimg.com/profile_images/738075123589124097/21uhvZTB_400x400.jpg
       width: 382
       height: 382
       colors:
-        - - 101
-          - 84
+        - - 19
+          - 19
+          - 21
+        - - 129
+          - 92
           - 73
-        - - 26
-          - 30
-          - 33
-        - - 159
-          - 164
-          - 157
-        - - 220
-          - 233
-          - 234
+        - - 233
+          - 244
+          - 250
+        - - 189
+          - 191
+          - 186
+        - - 160
+          - 162
+          - 148
 related: []
 publisher:
   url: 'http://twitter.com'
@@ -48,12 +53,12 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/GadzGamz/status/728314115576332288'
-datePublished: '2016-06-15T07:55:28.947Z'
-dateModified: '2016-06-15T07:55:25.339Z'
+datePublished: '2016-06-15T08:15:12.699Z'
+dateModified: '2016-06-15T08:15:12.323Z'
 title: ''
-starred: false
 sourcePath: >-
   _posts/2016-06-15-made-some-new-mushrooms-and-vines-last-night-for-the-tunnels.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
